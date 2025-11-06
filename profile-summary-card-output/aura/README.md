@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/The-D66/The-D66/master/profile-summary-card-output/aura/4-productive-time.svg)
+```
+
+    
